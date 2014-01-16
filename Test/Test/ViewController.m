@@ -23,7 +23,7 @@
     
     NSLog(@"Test");
     
-    NSLog(@"Hello");
+    NSLog(@"Hello2");
     
 
 
